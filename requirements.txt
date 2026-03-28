@@ -1,0 +1,12 @@
+tidyverse
+caret
+corrplot
+glmnet
+randomForest
+fastDummies
+ggplot2
+data.table
+e1071
+xgboost
+lightgbm
+rmarkdown
